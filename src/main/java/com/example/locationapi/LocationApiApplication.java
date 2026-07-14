@@ -8,6 +8,7 @@ public class LocationApiApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LocationApiApplication.class, args);
+
     }
 
 }
